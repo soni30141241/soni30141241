@@ -10,7 +10,7 @@ CallbackQueryHandler
 and channel username
 BOT TOKEN ="8175899243:AAFXOM11aZOnxTNnpw2-qXUwVB-GOruRs68"
 CHANNEL_USERNAME ="https://t.me/+0wx4yCbtqbZhNjM1"
-ADMIN ID =123456789
+ADMIN ID =6691061346
 USERS FILE ='users.json
 FRESH_FILE ='fresh_numbers.txt
 OLD FILE ='old_numbers.txt'
